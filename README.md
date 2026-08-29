@@ -49,6 +49,7 @@ Developed an end-to-end e-commerce analytics solution to analyze sales performan
 - **SQL**
 - **Power BI**
 - **DAX**
+- **KPI**
 - **Power Query**
 - **Excel**
 
