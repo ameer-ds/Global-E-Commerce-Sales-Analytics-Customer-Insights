@@ -1,4 +1,4 @@
-# PowerBI Project 
+# PowerBI Project  Dashbord
 <img width="1538" height="910" alt="image" src="https://github.com/user-attachments/assets/8cec76b7-ec54-4466-a6a2-d9db53f16ba5" />
 
 <img width="1534" height="914" alt="image" src="https://github.com/user-attachments/assets/7ea529de-7cf9-471c-98ca-2500c8608c05" />
